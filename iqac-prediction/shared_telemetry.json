@@ -1,0 +1,24 @@
+{
+  "monitoring_running": false,
+  "status": "stopped",
+  "cycle": 139,
+  "timestamp": 1787826574.19583,
+  "readings": [],
+  "records": {
+    "daily": [
+      {
+        "day": "2026-08-27",
+        "reading_count": 2375,
+        "temperature_max": 43.91,
+        "temperature_min": 0.0,
+        "updated_at": "2026-08-27T10:29:33.804155+00:00",
+        "average_temperature_c": 23.894290526315956,
+        "average_cpu_usage": 19.91692631578951,
+        "average_fan_rpm": 0.0,
+        "spike_count": 0
+      }
+    ],
+    "spikes": [],
+    "monitoring_duration_hours": 1.3628990552822748
+  }
+}
